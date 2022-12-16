@@ -1,4 +1,4 @@
-# Plotting a Macroscopic Fundamental Diagram for Data Scientists in Python forTraffic Flow in Congested Conditions
+# Plotting a Macroscopic Fundamental Diagram for Data Scientists in Python for Traffic Flow in Congested Conditions
 
 A Macroscopic Fundamental Diagram, MFD, investigates the flow of traffic through a network of roads that span a spatial dimension. The relationship between the variables speed, flow, and density can be shown in three diagrams and together make up the MFD. The diagram can then be used to identify the flow, speed, and density capacities at which traffic conditions deteriorate and ultimately breakdown. This information can help determine traffic regulation in real time when combining an MFD with a Graph Convolutional Network, GCN, for traffic forecasting.
 
