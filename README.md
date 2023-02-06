@@ -6,7 +6,9 @@
 
 <img src="https://github.com/ThomasAFink/mfd_traffic_congestion_for_data_scientists/blob/main/output/mfd_speed_flow.jpg?raw=true" width="31.1%" align="right">
 
-<br />
+ 
+
+<hr width="100%" />
 
 A Macroscopic Fundamental Diagram, MFD, investigates the flow of traffic through a network of roads that span a spatial dimension. The relationship between the variables speed, flow, and density can be shown in three diagrams and together make up the MFD. The diagram can then be used to identify the flow, speed, and density capacities at which traffic conditions deteriorate and ultimately breakdown. This information can help determine traffic regulation in real time when combining an MFD with a Graph Convolutional Network, GCN, for traffic forecasting.
 
