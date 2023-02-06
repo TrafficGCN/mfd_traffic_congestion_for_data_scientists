@@ -1,10 +1,10 @@
 # Plotting a Macroscopic Fundamental Diagram for Data Scientists in Python for Traffic Flow in Congested Conditions
 
-<img src="https://github.com/ThomasAFink/mfd_traffic_congestion_for_data_scientists/blob/main/output/mfd_density_flow.jpg?raw=true" width="31.1%" align="right">
+<img src="https://github.com/ThomasAFink/mfd_traffic_congestion_for_data_scientists/blob/main/output/mfd_density_flow.jpg?raw=true" width="30%" align="right">
 
-<img src="https://github.com/ThomasAFink/mfd_traffic_congestion_for_data_scientists/blob/main/output/mfd_speed_density.jpg?raw=true" width="31.1%" align="right">
+<img src="https://github.com/ThomasAFink/mfd_traffic_congestion_for_data_scientists/blob/main/output/mfd_speed_density.jpg?raw=true" width="30%" align="right">
 
-<img src="https://github.com/ThomasAFink/mfd_traffic_congestion_for_data_scientists/blob/main/output/mfd_speed_flow.jpg?raw=true" width="31.1%" align="right">
+<img src="https://github.com/ThomasAFink/mfd_traffic_congestion_for_data_scientists/blob/main/output/mfd_speed_flow.jpg?raw=true" width="30%" align="right">
 
  
 
